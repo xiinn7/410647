@@ -1,8 +1,8 @@
 # 410647
 
 ## Week 1
-- [ 第一個C程式 Welcome to Programign](https://github.com/xiinn7/410647)
+- [ intro.html](
 - [攝氏華氏溫度轉換]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODY1ODMzM119
+eyJoaXN0b3J5IjpbMTgwNzcyMzc0NCwxNzg4NjU4MzMzXX0=
 -->
