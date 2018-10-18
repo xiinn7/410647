@@ -16,8 +16,8 @@
 - [imagegallery.html](https://github.com/xiinn7/410647/blob/master/w05/imagegallery.html)
 - [index.html](https://github.com/xiinn7/410647/blob/master/w05/index.html)
 ## Week 6
-
+- [pet.html](https://github.com/xiinn7/410647/blob/master/w06/pet.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODE4MjQ5MiwtNzQ3MDYzNjk5LDE3OD
-g2NTgzMzNdfQ==
+eyJoaXN0b3J5IjpbLTE2MDE2NTQ1NDgsMTQyODE4MjQ5MiwtNz
+Q3MDYzNjk5LDE3ODg2NTgzMzNdfQ==
 -->
