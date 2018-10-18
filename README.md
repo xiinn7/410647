@@ -14,6 +14,10 @@
 - [ttt.html](https://github.com/xiinn7/410647/blob/master/w04/ttt.html)
 ## Week 5
 - [imagegallery.html](https://github.com/xiinn7/410647/blob/master/w05/imagegallery.html)
+- [index.html](https://github.com/xiinn7/410647/blob/master/w05/index.html)
+## Week 6
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzA2MzY5OSwxNzg4NjU4MzMzXX0=
+eyJoaXN0b3J5IjpbMTQyODE4MjQ5MiwtNzQ3MDYzNjk5LDE3OD
+g2NTgzMzNdfQ==
 -->
